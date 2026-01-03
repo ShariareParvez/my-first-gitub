@@ -6,3 +6,11 @@ git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ShariareParvez/my-first-gitub.git
+git push -u origin main
+
+
+
+# For every time
+git add .
+git commit -m"add the my html"
+git push
